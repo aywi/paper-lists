@@ -1,5 +1,7 @@
 # Symmetries
 
+Note: Papers with the paywall are followed by a `[PDF]` option, otherwise they are open access.
+
 ## General
 
 - Understanding Image Representations by Measuring Their Equivariance and Equivalence [[URL](https://doi.org/10.1007/s11263-018-1098-y)]
