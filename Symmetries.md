@@ -11,8 +11,8 @@ Note: Papers with the paywall are followed by a `[PDF]` option, otherwise they a
 - Deep Symmetry Networks [[URL](https://papers.nips.cc/paper/5424-deep-symmetry-networks)]
 - **Spatial Transformer Networks [[URL](https://arxiv.org/abs/1506.02025)]**
 - Deformable Convolutional Networks [[URL](https://arxiv.org/abs/1703.06211)]
-- Transforming Auto-Encoders [[URL](https://doi.org/10.1007/978-3-642-21735-7_6)] [[PDF](https://www.cs.toronto.edu/~hinton/absps/transauto6.pdf)]
-- **Dynamic Routing Between Capsules [[URL](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules)]**
+- **Transforming Auto-Encoders [[URL](https://doi.org/10.1007/978-3-642-21735-7_6)] [[PDF](https://www.cs.toronto.edu/~hinton/absps/transauto6.pdf)]**
+- Dynamic Routing Between Capsules [[URL](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules)]
 - Matrix capsules with EM routing [[URL](https://openreview.net/forum?id=HJWLfGWRb)]
 - **Group Equivariant Convolutional Networks [[URL](https://arxiv.org/abs/1602.07576)] [[Code1](https://github.com/tscohen/GrouPy)] [[Code2](https://github.com/tscohen/gconv_experiments)]**
 - Group Normalization [[URL](https://arxiv.org/abs/1803.08494)]
@@ -28,7 +28,7 @@ Note: Papers with the paywall are followed by a `[PDF]` option, otherwise they a
 
 ## Translation Symmetry
 
-- Making Convolutional Networks Shift-Invariant Again [[URL](https://arxiv.org/abs/1904.11486)] [[Code](https://github.com/adobe/antialiased-cnns)]
+- **Making Convolutional Networks Shift-Invariant Again [[URL](https://arxiv.org/abs/1904.11486)] [[Code](https://github.com/adobe/antialiased-cnns)]**
 - On Translation Invariance in CNNs: Convolutional Layers can Exploit Absolute Spatial Location [[URL](https://arxiv.org/abs/2003.07064)]
 
 ## Rotation Symmetry
@@ -53,6 +53,7 @@ Note: Papers with the paywall are followed by a `[PDF]` option, otherwise they a
 
 ## Scale Symmetry
 
+- Feature Pyramid Networks for Object Detection [[URL](https://arxiv.org/abs/1612.03144)]
 - Scale equivariance in CNNs with vector fields [[URL](https://arxiv.org/abs/1807.11783)]
 - Deep Scale-spaces: Equivariance Over Scale[[URL](https://papers.nips.cc/paper/8956-deep-scale-spaces-equivariance-over-scale)]
 - Scale Steerable Filters for Locally Scale-Invariant Convolutional Neural Networks [[URL](https://arxiv.org/abs/1906.03861)] [[Code](https://github.com/rghosh92/SS-CNN)]
