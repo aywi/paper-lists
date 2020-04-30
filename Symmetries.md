@@ -20,7 +20,7 @@ Note: Papers with the paywall are followed by a `[PDF]` option, otherwise they a
 - HexaConv [[URL](https://openreview.net/forum?id=r1vuQG-CW)] [[Code](https://github.com/ehoogeboom/hexaconv)]
 - A General Theory of Equivariant CNNs on Homogeneous Spaces [[URL](https://arxiv.org/abs/1811.02017)]
 - B-Spline CNNs on Lie groups [[URL](https://openreview.net/forum?id=H1gBhkBFDH)]
-- General E(2)-Equivariant Steerable CNNs [[URL](https://arxiv.org/abs/1911.08251)] [[Code](https://github.com/QUVA-Lab/e2cnn)]
+- **General E(2)-Equivariant Steerable CNNs [[URL](https://arxiv.org/abs/1911.08251)] [[Code](https://github.com/QUVA-Lab/e2cnn)]**
 - Gauge Equivariant Convolutional Networks and the Icosahedral CNN [[URL]](https://arxiv.org/abs/1902.04615)
 - Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data [[URL](https://arxiv.org/abs/2002.12880)] [[Code](https://github.com/mfinzi/LieConv)]
 - Learning Invariances using the Marginal Likelihood [[URL](https://arxiv.org/abs/1808.05563)]
@@ -34,7 +34,7 @@ Note: Papers with the paywall are followed by a `[PDF]` option, otherwise they a
 ## Rotation Symmetry
 
 - Exploiting Cyclic Symmetry in Convolutional Neural Networks [[URL](http://proceedings.mlr.press/v48/dieleman16.html)]
-- Harmonic Networks: Deep Translation and Rotation Equivariance [[URL]](https://arxiv.org/abs/1612.04642)
+- Harmonic Networks: Deep Translation and Rotation Equivariance [[URL]](https://arxiv.org/abs/1612.04642) [[Code](https://github.com/deworrall92/harmonicConvolutions)]
 - **Learning Steerable Filters for Rotation Equivariant CNNs [[URL](https://arxiv.org/abs/1711.07289)]**
 - A rotation-equivariant convolutional neural network model of primary visual cortex [[URL](https://openreview.net/forum?id=H1fU8iAqKX)]
 - Roto-Translation Covariant Convolutional Networks for Medical Image Analysis [[URL](https://arxiv.org/abs/1804.03393)] [[Code](https://github.com/tueimage/SE2CNN)]
@@ -55,9 +55,9 @@ Note: Papers with the paywall are followed by a `[PDF]` option, otherwise they a
 
 - Feature Pyramid Networks for Object Detection [[URL](https://arxiv.org/abs/1612.03144)]
 - Scale equivariance in CNNs with vector fields [[URL](https://arxiv.org/abs/1807.11783)]
-- Deep Scale-spaces: Equivariance Over Scale[[URL](https://papers.nips.cc/paper/8956-deep-scale-spaces-equivariance-over-scale)]
+- Deep Scale-spaces: Equivariance Over Scale [[URL](https://papers.nips.cc/paper/8956-deep-scale-spaces-equivariance-over-scale)]
 - Scale Steerable Filters for Locally Scale-Invariant Convolutional Neural Networks [[URL](https://arxiv.org/abs/1906.03861)] [[Code](https://github.com/rghosh92/SS-CNN)]
-- **Scale-Equivariant Steerable Networks [[URL](https://openreview.net/forum?id=HJgpugrKPS)]**
+- **Scale-Equivariant Steerable Networks [[URL](https://openreview.net/forum?id=HJgpugrKPS)] [[Code](https://github.com/ISosnovik/sesn)]**
 
 ## Time Symmetry
 
