@@ -21,7 +21,7 @@ Note: Papers with the paywall are followed by a `[PDF]` option, otherwise they a
 - A General Theory of Equivariant CNNs on Homogeneous Spaces [[URL](https://arxiv.org/abs/1811.02017)]
 - B-Spline CNNs on Lie groups [[URL](https://openreview.net/forum?id=H1gBhkBFDH)]
 - **General E(2)-Equivariant Steerable CNNs [[URL](https://arxiv.org/abs/1911.08251)] [[Code](https://github.com/QUVA-Lab/e2cnn)]**
-- Gauge Equivariant Convolutional Networks and the Icosahedral CNN [[URL]](https://arxiv.org/abs/1902.04615)
+- **Gauge Equivariant Convolutional Networks and the Icosahedral CNN [[URL]](https://arxiv.org/abs/1902.04615)**
 - Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data [[URL](https://arxiv.org/abs/2002.12880)] [[Code](https://github.com/mfinzi/LieConv)]
 - Learning Invariances using the Marginal Likelihood [[URL](https://arxiv.org/abs/1808.05563)]
 - Symmetry Regularization [[URL](https://dspace.mit.edu/handle/1721.1/109391)]
@@ -47,8 +47,8 @@ Note: Papers with the paywall are followed by a `[PDF]` option, otherwise they a
 - Spherical CNNs [[URL](https://openreview.net/forum?id=Hkbd5xZRb)] [[Code](https://github.com/jonas-koehler/s2cnn)]
 - Spherical CNNs on Unstructured Grids [[URL](https://openreview.net/forum?id=Bkl-43C9FQ)]
 - DeepSphere: a graph-based spherical CNN [[URL](https://openreview.net/forum?id=B1e3OlStPB)]
-- Neural 3D Morphable Models: Spiral Convolutional Networks for 3D Shape Representation Learning and Generation [[URL](http://openaccess.thecvf.com/content_ICCV_2019/html/Bouritsas_Neural_3D_Morphable_Models_Spiral_Convolutional_Networks_for_3D_Shape_ICCV_2019_paper.html)]
-- SpiralNet++: A Fast and Highly Efficient Mesh Convolution Operator [[URL](https://arxiv.org/abs/1911.05856)]
+- Neural 3D Morphable Models: Spiral Convolutional Networks for 3D Shape Representation Learning and Generation [[URL](http://openaccess.thecvf.com/content_ICCV_2019/html/Bouritsas_Neural_3D_Morphable_Models_Spiral_Convolutional_Networks_for_3D_Shape_ICCV_2019_paper.html)] [[Code](https://github.com/gbouritsas/Neural3DMM)]
+- SpiralNet++: A Fast and Highly Efficient Mesh Convolution Operator [[URL](https://arxiv.org/abs/1911.05856)] [[Code](https://github.com/sw-gong/spiralnet_plus)]
 - Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs [[URL](https://arxiv.org/abs/2003.05425)]
 
 ## Scale Symmetry
@@ -61,8 +61,8 @@ Note: Papers with the paywall are followed by a `[PDF]` option, otherwise they a
 
 ## Time Symmetry
 
-- Neural Ordinary Differential Equations [[URL](https://arxiv.org/abs/1806.07366)]
+- **Neural Ordinary Differential Equations [[URL](https://arxiv.org/abs/1806.07366)] [[Code](https://github.com/rtqichen/torchdiffeq)]**
 - Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning [[URL](https://openreview.net/forum?id=BklHpjCqKm)]
 - **Hamiltonian Neural Networks [[URL](https://arxiv.org/abs/1906.01563)] [[Code](https://github.com/greydanus/hamiltonian-nn)]**
-- Lagrangian Neural Networks [[URL](https://arxiv.org/abs/2003.04630)] [[Code](https://github.com/MilesCranmer/lagrangian_nns)]
+- **Lagrangian Neural Networks [[URL](https://arxiv.org/abs/2003.04630)] [[Code](https://github.com/MilesCranmer/lagrangian_nns)]**
 - Hamiltonian Generative Networks [[URL](https://openreview.net/forum?id=HJenn6VFvB)]
