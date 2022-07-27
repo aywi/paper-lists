@@ -1,13 +1,5 @@
 # Symmetries
 
-Note: Papers with the paywall are followed by a `[PDF]` option, otherwise they are open access. Papers with the official code are followed by a `[Code]` option (incomplete).
-Papers with the official blog are followed by a `[Blog]` option (incomplete).
-Papers with the official slides are followed by a `[Slides]` option (incomplete).
-Papers with the official talk are followed by a `[Talk]` option (incomplete).
-
-URL: DOI (Open Access) >= Non-DOI (Open Access) >= Preprint > DOI (Paywalled) >= Non-DOI (Paywalled)
-PDF: If URL <= DOI (Paywalled)
-
 - [General](#general)
 - [Translation Symmetry](#translation-symmetry)
 - [Rotation Symmetry](#rotation-symmetry)
