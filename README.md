@@ -1,5 +1,5 @@
 # paper-lists
 
 - [Interpretability](./Interpretability.md)
-- [Self-supervised Learning (Paused)](./Self-supervised_Learning.md)
-- [Symmetries (Stopped)](./Symmetries.md)
+- [Self-supervised Learning](./Self-supervised_Learning.md) (Paused)
+- [Symmetries](./Symmetries.md) (Paused)
