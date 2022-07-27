@@ -8,6 +8,10 @@ Papers with the official talk are followed by a `[Talk]` option (incomplete).
 URL: DOI (Open Access) >= Non-DOI (Open Access) >= Preprint > DOI (Paywalled) >= Non-DOI (Paywalled)
 PDF: If URL <= DOI (Paywalled)
 
+- [General](#general)
+- [Case-based Models](#case-based-models)
+- [Concept-based Models](#concept-based-models)
+
 ## General
 
 - Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead [[URL](https://www.nature.com/articles/s42256-019-0048-x)]
